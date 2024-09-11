@@ -1,1 +1,2 @@
 # sarreraHariak
+Lehen hurbilpena baino ez da honakoa programazio paraleloak ulertzeko, eta, horregatik, ez ditugu ikusiko Thread klaseko metodo guztiak nola erabili behar diren, baina erakutsiko dizkizuegu badaudela jakin dezazuen, eta, gainera, haien izenaz balia zaitezkete. Adibide bidez ikasiko ditugu aldeak, programa bat multiataza darabilena, eta, bestea ordea, gabe. Nola exekutatuko bakoitza?
